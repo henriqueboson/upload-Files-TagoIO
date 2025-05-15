@@ -1,0 +1,18 @@
+{
+  "name": "upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "upload.js",
+  "scripts": {
+    "start": "node upload.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@tago-io/sdk": "^10.10.0",
+    "dotenv": "^16.5.0",
+    "inquirer": "^12.6.1"
+  }
+}
