@@ -1,3 +1,2 @@
-#upload-files-tagoio
 
-upload por python desenvolvido, em node esta em desenvolvimento
+Algoritimos em Python e Js para upload de arquivos na plataforma da TagoIO
